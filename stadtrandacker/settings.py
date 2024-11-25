@@ -209,7 +209,7 @@ CONTACTS = {
     "general": "info@stadtrandacker.ch"
 }
 ORGANISATION_WEBSITE = {
-    'name': "www.stadtrandacker.org",
-    'url': "https://www.stadtrandacker.org"
+    'name': "Stadtrandacker",
+    'url': "https://www.stadtrandacker.ch/"
 }
 STYLES = {'static': ['stadtrandacker/css/customize.css']}
