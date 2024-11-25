@@ -203,7 +203,8 @@ ORGANISATION_BANK_CONNECTION = {"PC" : "-",
             "BIC" : "-",
             "NAME" : "-",
             "ESR" : ""}
-SHARE_PRICE = "100"
+ENABLE_SHARES = False
+SHARE_PRICE = "0"
 
 CONTACTS = {
     "general": "info@stadtrandacker.ch"
